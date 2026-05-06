@@ -7,7 +7,7 @@ def main():
     # Rule E501: Line too long (standard limit is usually 88 characters)
     print("This is an incredibly long string that is designed to exceed the character limit of a standard line in Python code according to the ruff linter settings.")
 
-    print("Breaking things for science!")
+    print("kmsksmksmksm Breaking things for science!")
 
 if __name__ == "__main__":
     main()
